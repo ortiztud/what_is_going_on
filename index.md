@@ -3,20 +3,29 @@ layout: default
 ---
 # Isavier's Project
 
-A site like this is easy to build. In here we could have a front page with a brief description, our names and contact info and an index.
+A site like this is easy to build. 
 
-Do researchers actually know how to interprete _p values_?
+In here we could have a front page with a brief description, our names and contact info and an index.
+
+And further down there could be something catchy like: 
+**Do researchers actually know how to interprete _p values_?**
+
 <iframe src="./interpretation_plot.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="500"
+    height="100%"
     scrolling="no"
     seamless="seamless"
-    frameborder="0">
+    frameborder="10">
   </iframe>
+
+Regardless of whether they do or do not, they for sure are talking more and more about it.
 
 [Here](./maths.html) is where you can find how to mathemetically compute everything that we discuss in this site.
 
+
+
+--- Info from the template from here on (could be useful for formatting).
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
