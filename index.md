@@ -12,11 +12,11 @@ And further down there could be something catchy like:
 
 <iframe src="./interpretation_plot.html"
     sandbox="allow-same-origin allow-scripts"
-    width="800"
-    height="800"
+    width="600"
+    height="600"
     scrolling="yes"
     seamless="seamless"
-    frameborder="10">
+    frameborder="0">
   </iframe>
   <caption>Source: PubMed</caption>
   
