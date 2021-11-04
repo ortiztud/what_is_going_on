@@ -6,7 +6,14 @@ layout: default
 A site like this is easy to build. In here we could have a front page with a brief description, our names and contact info and an index.
 
 Do researchers actually know how to interprete _p values_?
-
+<iframe src="./interpretation_plot.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+  </iframe>
 
 [Here](./maths.html) is where you can find how to mathemetically compute everything that we discuss in this site.
 
