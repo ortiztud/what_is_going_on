@@ -13,12 +13,12 @@ And further down there could be something catchy like:
 <iframe src="./interpretation_plot.html"
     sandbox="allow-same-origin allow-scripts"
     width="100%"
-    height="600%"
+    height="600"
     scrolling="yes"
     seamless="seamless"
     frameborder="10">
   </iframe>
-  <caption>He-Man and Skeletor facts</caption>
+  <caption>PubMed: (("p value"[Title/Abstract] OR "effect sizes"[Title/Abstract]) AND "interpretation"[Title/Abstract]) AND (2000:2021[pdat])</caption>
 
 Regardless of whether they do or do not, they for sure are talking more and more about it.
 
