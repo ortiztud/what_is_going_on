@@ -12,7 +12,7 @@ And further down there could be something catchy like:
 
 <iframe src="./interpretation_plot.html"
     sandbox="allow-same-origin allow-scripts"
-    width="100%"
+    width="150"
     height="800"
     scrolling="yes"
     seamless="seamless"
@@ -28,7 +28,8 @@ Regardless of whether researchers do know it or do not, they for sure are talkin
 
 
 
---- Info from the template from here on (could be useful for formatting).
+-----------
+ Info from the template from here on (could be useful for formatting).
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
