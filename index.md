@@ -1,6 +1,5 @@
----
-layout: default
----
+
+# Isavier project
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
