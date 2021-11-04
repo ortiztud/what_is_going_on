@@ -6,9 +6,7 @@ useMath: true
 # In (mathematical) depth
 In case you are interested in the actual implementation, we got you covered.
 
-
-Inline Expressions
-You can use inline expressions using a single $ to delimit an expression:
+In case we would like to use inline expressions, we can use a single $ to delimit an expression:
 This expression: $\vec{F} = \frac{d \vec{p}}{dt} = m \frac{d \vec{v}}{dt} = m \vec{a}$
 
 
