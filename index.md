@@ -5,9 +5,7 @@ layout: default
 
 A site like this is easy to build. In here we could have a front page with a brief description, our names and contact info and an index.
 
-[[__TOC__]]
-
-[Here](./maths.md) is where you can find how to mathemetically compute everything that we discuss in this site.
+[Here](./maths.html) is where you can find how to mathemetically compute everything that we discuss in this site.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
