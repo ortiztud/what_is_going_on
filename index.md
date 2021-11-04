@@ -12,8 +12,8 @@ And further down there could be something catchy like:
 
 <iframe src="./interpretation_plot.html"
     sandbox="allow-same-origin allow-scripts"
-    width="600"
-    height="600"
+    width="650"
+    height="650"
     scrolling="yes"
     seamless="seamless"
     frameborder="0">
