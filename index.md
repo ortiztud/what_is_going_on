@@ -1,6 +1,10 @@
+---
+layout: default
+---
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Here's where you can find how to mathemetically compute everything that we discuss here](./maths.md).
 
 There should be whitespace between paragraphs.
 
