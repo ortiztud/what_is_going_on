@@ -19,9 +19,10 @@ And further down there could be something catchy like:
     frameborder="10">
   </iframe>
   <caption>Source: PubMed</caption>
-  <caption>(("p value"[Title/Abstract] OR "effect sizes"[Title/Abstract]) AND "interpretation"[Title/Abstract]) AND (2000:2021[pdat])</caption>
+  
+The figure above was created with the following PubMed query `(("p value"[Title/Abstract] OR "effect sizes"[Title/Abstract]) AND "interpretation"[Title/Abstract]) AND (2000:2021[pdat])`.
 
-Regardless of whether they do or do not, they for sure are talking more and more about it.
+Regardless of whether researchers do know it or do not, they for sure are talking more and more about it.
 
 [Here](./maths.html) is where you can find how to mathemetically compute everything that we discuss in this site.
 
