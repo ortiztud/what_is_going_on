@@ -6,6 +6,3 @@ Have you ever thought to yourself "We should really know what is going on!"? The
 **(UNDER CONSTRUCTION)**. Come back soon for updates.
 
 
----
-layout: default
----
