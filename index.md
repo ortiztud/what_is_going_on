@@ -3,9 +3,13 @@ layout: default
 ---
 # Isavier's Project
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+A site like this is easy to build. In here we could have a front page with a brief description, our names and contact info and an index.
 
-[Here's where you can find how to mathemetically compute everything that we discuss here](./maths.md).
+[[_TOC__]]
+
+[Here](./maths.md) is where you can find how to mathemetically compute everything that we discuss in this site.
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
 
