@@ -21,4 +21,4 @@ filename: quizz.md
 
 ---------
 
-<div style="text-align: right">From <i> A Dirty Dozen: Twelve P-Value Misconceptions (Steven Goodman, 2008).<a href="https://doi.org/10.1053/j.seminhematol.2008.04.003">https://doi.org/10.1053/j.seminhematol.2008.04.003</a></p>
+<div style="text-align: right">From <i> A Dirty Dozen: Twelve P-Value Misconceptions (Steven Goodman, 2008).<a href="https://doi.org/10.1053/j.seminhematol.2008.04.003">https://doi.org/10.1053/j.seminhematol.2008.04.003</a></div>
