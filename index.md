@@ -6,9 +6,7 @@ layout: default
 
 <div style="text-align: right"> <i>Isabelle Ehrlich (2021)</i></div> 
 
-A site like this is easy to build. 
-
-In here we could have a front page with a brief description, our names and contact info and an index.
+A site like this is easy to build. In here we could have a front page with a brief description, our names and contact info and an index.
 
 And further down there could be something catchy like: 
 **Do researchers actually know how to interprete _p values_?**
