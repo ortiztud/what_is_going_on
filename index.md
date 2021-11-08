@@ -1,5 +1,7 @@
 ---
+title: What is going on?
 layout: default
+filename: index.md
 ---
 # Isavier's Project
 > We should really know what is going on!

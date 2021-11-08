@@ -1,6 +1,7 @@
 ---
 title: P value auto-administered quizz
 layout: default
+filename: quizz.md
 ---
 # Do you know what the p value is?
 
@@ -18,4 +19,5 @@ layout: default
 	
 </body>
 
-From _A Dirty Dozen: Twelve P-Value Misconceptions (Steven Goodman, 2008)_[https://doi.org/10.1053/j.seminhematol.2008.04.003](https://doi.org/10.1053/j.seminhematol.2008.04.003)
+---------
+<div style="text-align: right"> From _A Dirty Dozen: Twelve P-Value Misconceptions (Steven Goodman, 2008)._[https://doi.org/10.1053/j.seminhematol.2008.04.003](https://doi.org/10.1053/j.seminhematol.2008.04.003)</div> 
