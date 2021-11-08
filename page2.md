@@ -1,10 +1,11 @@
 ---
+title: P value auto-administered quizz
 layout: default
 ---
-# More tests 
+# Do you know what the p value is?
 
 <body>
-	<h1>Do you know what the p value is?</h1>
+	<link rel="stylesheet" href="style_jk.scss">
 	<!-- Divisin for quizz stuff -->
 	<div id="quiz"></div>
 	<!--  Button -->
