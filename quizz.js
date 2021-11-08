@@ -138,7 +138,7 @@ function generateQuiz(questions, quizContainer, resultsContainer, submitButton){
 	if(numCorrect==questions.length){
 		wayout_container.innerHTML = 'Yay! You are a true p value pro. Wanna try with effect sizes?'
 	}else{
-		wayout_container.innerHTML = 'Ok, I get it. I need to learn more about it.' + '<a href="./index.html">Take me to main site.</a></div>';
+		wayout_container.innerHTML = 'Ok, I get it... Fine. I need to learn more about it.' + '<a href="./index.html">Take me to main site.</a></div>';
 	}
 	
 
