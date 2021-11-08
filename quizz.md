@@ -15,6 +15,7 @@ layout: default
 	<!--  Way out -->
 	<div id="way_out"></div>
 	<script src="quizz.js"></script>
-	<!--  Reference -->
-	<p id="ref">From <i> A Dirty Dozen: Twelve P-Value Misconceptions (Steven Goodman, 2008).<a href="https://doi.org/10.1053/j.seminhematol.2008.04.003">https://doi.org/10.1053/j.seminhematol.2008.04.003</a></p>
+	
 </body>
+
+From _A Dirty Dozen: Twelve P-Value Misconceptions (Steven Goodman, 2008)_[https://doi.org/10.1053/j.seminhematol.2008.04.003](https://doi.org/10.1053/j.seminhematol.2008.04.003)
