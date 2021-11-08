@@ -2,6 +2,9 @@
 layout: default
 ---
 # Isavier's Project
+> We should really know what is going on!
+
+<div style="text-align: right"> Isabelle Ehrlich</div> 
 
 A site like this is easy to build. 
 
@@ -19,8 +22,8 @@ And further down there could be something catchy like:
     frameborder="0">
   </iframe>
   <caption>Source: PubMed</caption>
-  
-The figure above was created with the following PubMed query `(("p value"[Title/Abstract] OR "effect sizes"[Title/Abstract]) AND "interpretation"[Title/Abstract]) AND (2000:2021[pdat])`.
+ <div style="text-align: right"> 
+The figure above was created with the following PubMed query `(("p value"[Title/Abstract] OR "effect sizes"[Title/Abstract]) AND "interpretation"[Title/Abstract]) AND (2000:2021[pdat])`. </div> 
 
 Regardless of whether researchers do know it or do not, they for sure are talking more and more about it.
 
