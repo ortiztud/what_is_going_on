@@ -4,7 +4,7 @@ layout: default
 # Isavier's Project
 > We should really know what is going on!
 
-<div style="text-align: right"> Isabelle Ehrlich</div> 
+<div style="text-align: right"> <i>Isabelle Ehrlich (2021)</i></div> 
 
 A site like this is easy to build. 
 
