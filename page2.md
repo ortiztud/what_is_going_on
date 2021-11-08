@@ -5,7 +5,7 @@ layout: default
 # Do you know what the p value is?
 
 <body>
-	<link rel="stylesheet" href="style_jk.scss">
+	<link rel="stylesheet" href="quizz_style.css">
 	<!-- Divisin for quizz stuff -->
 	<div id="quiz"></div>
 	<!--  Button -->
