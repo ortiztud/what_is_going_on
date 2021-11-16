@@ -31,4 +31,4 @@ Regardless of whether researchers do know it or do not, they for sure are talkin
 
 We could also have a short quizz to test whether people know what the _p value_ actually means. Something like [this](./quizz.html).
 
-In [this link](./pages/cheat_sheet.html') we can find some useful tips.
+In [this link](./pages/cheat_sheet.html) we can find some useful tips.
