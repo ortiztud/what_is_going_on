@@ -29,6 +29,6 @@ Regardless of whether researchers do know it or do not, they for sure are talkin
 
 [Here](./maths.html) is where you can find how to mathemetically compute everything that we discuss in this site.
 
-We could also have a short quizz to test whether people know what the _p value_ actually means. Something like [this](./quizz.html).
+We could also have a short quizz to test whether people know what the _p value_ actually means. Something like [this](./pages/quizz.html).
 
 In [this link](./pages/cheat_sheet.html) we can find some useful tips.
