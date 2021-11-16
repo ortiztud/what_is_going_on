@@ -15,7 +15,7 @@ And further down there could be something catchy like:
 
 Regardless of whether researchers do know it or do not, they for sure are talking more and more about it.
 
-<iframe src="./interpretation_plot.html"
+  <iframe src="./interpretation_plot.html"
     sandbox="allow-same-origin allow-scripts"
     width="700"
     height="700"
@@ -23,7 +23,6 @@ Regardless of whether researchers do know it or do not, they for sure are talkin
     seamless="seamless"
     frameborder="0">
   </iframe>
-  <caption>Source: PubMed</caption>
  <div style="text-align: right"> 
 The figure above was created with the following PubMed query `(("p value"[Title/Abstract] OR "effect sizes"[Title/Abstract]) AND "interpretation"[Title/Abstract]) AND (2000:2021[pdat])`. </div> 
 
