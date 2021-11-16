@@ -13,6 +13,8 @@ A site like this is easy to build. In here we could have a front page with a bri
 And further down there could be something catchy like: 
 **Do researchers actually know how to interprete _p values_?**
 
+Regardless of whether researchers do know it or do not, they for sure are talking more and more about it.
+
 <iframe src="./interpretation_plot.html"
     sandbox="allow-same-origin allow-scripts"
     width="700"
@@ -25,10 +27,10 @@ And further down there could be something catchy like:
  <div style="text-align: right"> 
 The figure above was created with the following PubMed query `(("p value"[Title/Abstract] OR "effect sizes"[Title/Abstract]) AND "interpretation"[Title/Abstract]) AND (2000:2021[pdat])`. </div> 
 
-Regardless of whether researchers do know it or do not, they for sure are talking more and more about it.
+> We could also have a short quizz to test whether people know what the _p value_ actually means. Something like [this](./pages/quizz.html).
 
-[Here](./maths.html) is where you can find how to mathemetically compute everything that we discuss in this site.
+## Maths
+[In something like this](./pages/maths.html) is where you can find how to mathemetically compute everything that we discuss in this site.
 
-We could also have a short quizz to test whether people know what the _p value_ actually means. Something like [this](./pages/quizz.html).
-
+--------
 In [this link](./pages/cheat_sheet.html) we can find some useful tips.
